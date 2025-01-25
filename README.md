@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm passionate about mobile application development and currently diving deep into the world of Flutter! 👩🏻‍💻💙<br><br>✨ I enjoy blending creativity with technology to bring ideas to life, and I'm always looking for ways to turn my imagination into impactful projects.<br><br>🔮 On this learning journey, I'm excited to explore, experiment, and grow as a developer.<br>     <br>🌸 My goal is to craft apps that are not only functional but also spark joy and inspire creativity.<br><br>Let’s connect and collaborate to build something amazing! 💡
+Hi there 👋<br>I'm passionate about mobile application development and currently diving deep into the world of Flutter! 👩🏻‍💻💙<br><br>✨ I enjoy blending creativity with technology to bring ideas to life, and I'm always looking for ways to turn my imagination into  impactful projects.<br><br>🔮 On this learning journey, I'm excited to explore, experiment, and grow as a developer.<br>     <br>🌸 My goal is to craft apps that are not only functional but also spark joy and inspire creativity.<br><br>Let’s connect and collaborate to build something amazing! 💡
 
 
 ## 🌐 Socials:
